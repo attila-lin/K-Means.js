@@ -1,0 +1,27 @@
+{
+  "name": "K-means",
+  "version": "0.0.1",
+  "description": "K-Means lib",
+  "main": "lib/kmeans.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whatever1992/K-Means.js.git"
+  },
+  "keywords": [
+    "node",
+    "K-Means",
+    "data mining",
+    "machine learning"
+  ],
+  "author": "Yiyu Lin <linyiyu1992@gmail.com>",
+  "license": "GPLv3",
+  "readmeFilename": "README.md",
+  "gitHead": "",
+  "bugs": {
+    "url": "https://github.com/whatever1992/K-Means.js/issues"
+  }
+}
